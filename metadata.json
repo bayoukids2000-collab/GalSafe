@@ -1,0 +1,6 @@
+{
+  "name": "GalSafe",
+  "description": "Barcode scanner that explains food ingredients in plain English and highlights mammal meat, dairy, and Alpha-Gal allergen risks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

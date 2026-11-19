@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GalSafe</string>
+    <string name="nav_scan">Scan</string>
+    <string name="nav_history">History</string>
+    <string name="nav_guide">Guide</string>
+    <string name="scan_title">Scan Barcode</string>
+    <string name="scan_subtitle">Point at a barcode to spot mammal meat, dairy &amp; gluten</string>
+    <string name="camera_permission_title">Camera access needed</string>
+    <string name="camera_permission_body">GalSafe uses your camera to scan product barcodes in real time. You can also scan a barcode from a saved photo or type a UPC manually.</string>
+    <string name="grant_camera_access">Enable Camera</string>
+    <string name="scan_from_photo">Scan Photo</string>
+    <string name="enter_barcode">Type UPC</string>
+    <string name="snap_label_photo">Read Label</string>
+    <string name="flash_toggle">Toggle flashlight</string>
+    <string name="history_title">Scanned Pantry</string>
+    <string name="guide_title">Allergen Guide</string>
+    <string name="back_cd">Go back</string>
+    <string name="bookmark_cd">Save product</string>
+    <string name="clear_history">Clear all</string>
+    <string name="allergy_disclaimer_title">Label Verification &amp; Medical Disclaimer</string>
+    <string name="allergy_disclaimer_body">GalSafe is an informational aid for Alpha-Gal Syndrome, dairy avoidance, and Celiac Disease—not medical advice. Product formulas can change and crowd-sourced databases may be incomplete, so always read the physical package label and allergen statement before eating.</string>
+    <string name="privacy_notice_title">Camera &amp; Data Privacy</string>
+    <string name="privacy_notice_body">Camera frames are processed on your device to detect barcodes. Only scanned barcode numbers, ingredient text, or label photos you choose to analyze are sent to Open Food Facts and Firebase AI Logic. Your scan history and preferences stay stored locally on your device.</string>
+</resources>
